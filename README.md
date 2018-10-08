@@ -1,10 +1,10 @@
 The files within this repo aim to satisfy the course completion requirements set by Coursera for the
 Getting and Cleaning Data course in the Data Science Specialization provided by John Hopkins University.
 
-This repo contains 3 files:
-	README.md - this file, containing all relevant information about the analysis
-	run_analysis.R - the R script used to perform the tidying of the Samsung data
-	codebook.md - the codebook for the variables found in the tidy data output of run_analysis.R
+This repo contains 3 files
+README.md - this file, containing all relevant information about the analysis
+run_analysis.R - the R script used to perform the tidying of the Samsung data
+codebook.md - the codebook for the variables found in the tidy data output of run_analysis.R
 	
 The script was originally written and run with R Studio version 1.1.456 with a Windows 10 version 10.0.16299 Build 16299 operating system.
 The Samsung raw data set was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on October 7, 2018.
@@ -23,6 +23,9 @@ tidy data in The Elements of Data Analytic Style.
 The tidy data output saves as "gettingandcleaningdataprojectVINSON.txt" to your set working directory.
 To read the output file of run_analysis.R correctly, use read.table(filename, header = TRUE) in R.
 
-Resources:
+
+
+
+Resources
 Guide on completing the assignment by thoughtfulbloke, accessed on October 7, 2018: https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
 Leek, J. (2015). The Elements of Data Analytic Style. Retrieved from Leanpub.
