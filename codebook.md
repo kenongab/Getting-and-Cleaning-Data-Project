@@ -1,4 +1,5 @@
-Study Design
+STUDY DESIGN
+
 This analysis was done under the instructions of the Getting and Cleaning Data Coursera course final project requirements. The Samsung data set was taken
 from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on October 7, 2018.
 
@@ -10,7 +11,8 @@ subject and activity taken from the Samsung data set.
 
 
 
-Code Book
+CODE BOOK
+
 The following is taken from the Samsung data set README that explains the labeling for each variable and their source in more detail
 
 
