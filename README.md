@@ -1,7 +1,7 @@
 The files within this repo aim to satisfy the course completion requirements set by Coursera for the
 Getting and Cleaning Data course in the Data Science Specialization provided by John Hopkins University.
 
-This repo contains 3 files
+This repo contains 3 files\:
 
 README.md - this file, containing all relevant information about the analysis
 
